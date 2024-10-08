@@ -2,7 +2,7 @@ package ar.edu.unq.po2.tp2;
 import java.util.ArrayList;
 import java.util.Date;
 
-abstract class Empleado {
+public abstract class Empleado {
 	String nombre;
 	String direccion;
 	String estadoCivil;
